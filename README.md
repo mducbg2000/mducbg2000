@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/mducbg2000"><img src="https://api.daily.dev/devcards/7fc7cde40a534d599b075b51fc61f905.png?r=nxh" width="400" alt="Nguyễn Minh Đức's Dev Card"/></a>
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mducbg2000) 
 
